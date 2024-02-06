@@ -1,0 +1,22 @@
+/* styles.css */
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#line4 {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.kamil,
+.numberthree {
+    background-color: rgb(184, 94, 94);
+    font-family: Verdana, sans-serif;
+}
+
+.numberthree {
+    font-size: 24px;
+}
